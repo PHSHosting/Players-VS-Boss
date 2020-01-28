@@ -1,0 +1,16 @@
+"playvsbs"
+{
+	"base"		"base"
+    "title"  "Players VS BOSS"
+    "version"   "1.1"
+    "menusystem"	"1"
+	"maps"		"^pvb_"
+
+    "author_name"   "Ancient Entity & Friends"
+    "author_email"  ""
+    "author_url"    ""
+	"author_discord" "Ancient Entity#2958"
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
