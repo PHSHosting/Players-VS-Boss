@@ -61,4 +61,4 @@ PVB.Config.ArcaneWeapons = {"weapon_pvb_awp","weapon_pvb_p90","weapon_pvb_tmp","
 
 ## License
 
-This project is licensed under the [MIT](./LICENSE.md) License &copy; 2019-2020 [Ancient Entity](https://github.com/AncientEntity/)
+This project is licensed under the [MIT](./LICENSE.md) License &copy; 2020 [Power House Hosting](https://github.com/PHSHosting/)
