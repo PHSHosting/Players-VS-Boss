@@ -2,7 +2,7 @@
 
 ## Overview
 
-Players VS Boss (PVB) is a round-based [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) gamemode in which a team of players fight against a boss played by a randomly selected player each round. Every round players can win new weapons that help them defeat more bosses!
+[Players VS Boss](https://steamcommunity.com/sharedfiles/filedetails/?id=1980347573) (PVB) is a round-based [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) gamemode in which a team of players fight against a boss played by a randomly selected player each round. Every round players can win new weapons that help them defeat more bosses!
 
 ### Features
 
@@ -22,7 +22,10 @@ Players VS Boss (PVB) is a round-based [Garry's Mod](https://store.steampowered.
 
 ## Installation
 
-1.  [Download the Repository](https://github.com/AncientEntity/PVBPublicRepository/archive/master.zip).
+1.  [Download](https://github.com/PHSHosting/Players-VS-Boss/archive/master.zip) or clone the Repository.
+	```bash
+	git clone https://github.com/PHSHosting/Players-VS-Boss.git
+	```
 
 2.  Extract the `gamemodes/pvb/` directory from the downloaded archive (Using a file archiver utility such as [WinRAR](https://www.rarlab.com/) or [7-Zip](https://www.7-zip.org/)).
 
