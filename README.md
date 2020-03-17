@@ -37,7 +37,7 @@
 
 ## Configuration
 
-[`pvb/gamemode/config/sh_config.lua`](pvb/gamemodes/pvb/gamemode/config/sh_config.lua)
+[`gamemodes/pvb/gamemode/config/sh_config.lua`](gamemodes/pvb/gamemode/config/sh_config.lua)
 
 ```Lua
 PVB.Config = {}
